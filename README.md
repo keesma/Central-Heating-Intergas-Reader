@@ -1,5 +1,8 @@
 # Central-Heating-Intergas-Reader
 
+This project has been replaced by https://github.com/keesma/Intergas-Central-Heating-Monitor-Homie
+The new version has much faster communication, a smaller codebase and also can do OTA.
+
 * This program can read the the status of a Central heating from Intergas.
   It has been built for an esp8266.
   The central heating status is sent through MQTT to a central system (MQTT broker).
